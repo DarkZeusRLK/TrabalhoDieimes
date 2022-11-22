@@ -1,0 +1,21 @@
+h1{
+    color: rgb(14, 68, 185);
+    text-align: center;
+    margin-top: 23px;
+}
+.logo{
+    width: 750px;
+    height: 550px;
+    margin-left: 240px;
+}
+h5{
+    font-size: 22px;
+    text-align: justify;
+    margin-top: 23px;
+}
+.turma{
+    margin-left: 170px;
+}
+#container2{
+    margin-top: 55px;
+}
